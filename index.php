@@ -30,34 +30,7 @@
         </div>
     </nav>
 
-    <div class="container"style="margin-top:10px;">
-        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-            <ol class="carousel-indicators">
-                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-            </ol>
-            <div class="carousel-inner">
-                <div class="carousel-item active">
-                <img class="d-block w-100" src="/static/3.jpg" alt="First slide">
-                </div>
-                <div class="carousel-item">
-                <img class="d-block w-100" src="/static/4.jpg" alt="Second slide">
-                </div>
-                <div class="carousel-item">
-                <img class="d-block w-100" src="/static/5.jpg" alt="Third slide">
-                </div>
-            </div>
-            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="sr-only">Previous</span>
-            </a>
-            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="sr-only">Next</span>
-            </a>
-        </div>
-    </div>
+
 
     <div class='tableauPlaceholder'
 id='viz1654017009663'
@@ -143,29 +116,6 @@ vizElement.parentNode.insertBefore(scriptElement, vizElement);
         <span>Hot War Score Introduction :</span>
       </div>
       <!-- Left -->
-
-      <!-- Right -->
-      <div>
-        <a href="" class="me-4 text-reset">
-          <i class="fab fa-facebook-f"></i>
-        </a>
-        <a href="" class="me-4 text-reset">
-          <i class="fab fa-twitter"></i>
-        </a>
-        <a href="" class="me-4 text-reset">
-          <i class="fab fa-google"></i>
-        </a>
-        <a href="" class="me-4 text-reset">
-          <i class="fab fa-instagram"></i>
-        </a>
-        <a href="" class="me-4 text-reset">
-          <i class="fab fa-linkedin"></i>
-        </a>
-        <a href="" class="me-4 text-reset">
-          <i class="fab fa-github"></i>
-        </a>
-      </div>
-      <!-- Right -->
     </section>
     <!-- Section: Social media -->
 
@@ -190,20 +140,18 @@ vizElement.parentNode.insertBefore(scriptElement, vizElement);
           <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
             <!-- Links -->
             <h6 class="text-uppercase fw-bold mb-4">
-              Products
+              TEAM
             </h6>
             <p>
-              <a href="#!" class="text-reset">Angular</a>
+              <a class="text-reset">陳品妤</a>
             </p>
             <p>
-              <a href="#!" class="text-reset">React</a>
+              <a class="text-reset">張芷榕</a>
             </p>
             <p>
-              <a href="#!" class="text-reset">Vue</a>
+              <a class="text-reset">侯禹鳳</a>
             </p>
-            <p>
-              <a href="#!" class="text-reset">Laravel</a>
-            </p>
+
           </div>
           <!-- Grid column -->
 
@@ -211,19 +159,16 @@ vizElement.parentNode.insertBefore(scriptElement, vizElement);
           <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
             <!-- Links -->
             <h6 class="text-uppercase fw-bold mb-4">
-              Useful links
+              MEMBER
             </h6>
             <p>
-              <a href="#!" class="text-reset">Pricing</a>
+              <a class="text-reset">何怡璇</a>
             </p>
             <p>
-              <a href="#!" class="text-reset">Settings</a>
+              <a class="text-reset">林千又</a>
             </p>
             <p>
-              <a href="#!" class="text-reset">Orders</a>
-            </p>
-            <p>
-              <a href="#!" class="text-reset">Help</a>
+              <a href="members.php" class="btn btn-info">view</a>
             </p>
           </div>
           <!-- Grid column -->
@@ -232,15 +177,9 @@ vizElement.parentNode.insertBefore(scriptElement, vizElement);
           <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
             <!-- Links -->
             <h6 class="text-uppercase fw-bold mb-4">
-              Contact
+              LINE Contact
             </h6>
-            <p><i class="fas fa-home me-3"></i> New York, NY 10012, US</p>
-            <p>
-              <i class="fas fa-envelope me-3"></i>
-              info@example.com
-            </p>
-            <p><i class="fas fa-phone me-3"></i> + 01 234 567 88</p>
-            <p><i class="fas fa-print me-3"></i> + 01 234 567 89</p>
+            <p><i class="fas fa-home me-3"></i> @842bizom</p>
           </div>
           <!-- Grid column -->
         </div>
@@ -251,8 +190,7 @@ vizElement.parentNode.insertBefore(scriptElement, vizElement);
 
     <!-- Copyright -->
     <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05);">
-      © 2021 Copyright:
-      <a class="text-reset fw-bold" href="https://mdbootstrap.com/">MDBootstrap.com</a>
+      FROM GROUP THIRTEEN 13
     </div>
     <!-- Copyright -->
   </footer>
