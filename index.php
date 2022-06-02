@@ -146,6 +146,9 @@ vizElement.parentNode.insertBefore(scriptElement, vizElement);
               <a class="text-reset">陳品妤</a>
             </p>
             <p>
+              <a class="text-reset">李安妮</a>
+            </p>
+            <p>
               <a class="text-reset">張芷榕</a>
             </p>
             <p>
