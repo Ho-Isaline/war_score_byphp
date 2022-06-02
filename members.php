@@ -113,10 +113,16 @@
           <p class="card-text">對網路爬蟲以及資料分析非常有興趣，希望能透過這次機會深入了解python網路爬蟲方面的相關應用，也希望能藉由組員間彼此交流、溝通收穫更多。</p>
         </div>
       </div>
-      <div class="card" style="width: 18rem;">
-        <img src="war.jpg" class="card-img-top"/>
-        <img src="war2.jpg" class="card-img-top"/>
-
+      <div class="card bg-dark" style="width: 18rem;">
+      <div class = "card">
+        <img src="6.jpg" class="card-img-center" alt="何怡璇"/>
+      </div>
+        <div class="card-body bg-danger">
+          <ol start="0">
+            <h3><span style="background-color: #B5B5B5;"><b>李安妮</b></span> </h3>
+          </ol>
+          <p class="card-text">身為輔系學生，在學習python的過程，一直在探索如何將政治專業與資料科學結合。在這次的專案中，希望透過政治系本科的學習，提供指數計算方面的幫助。</p>
+        </div>
       </div>
       <div class="card  bg-dark" style="width: 18rem;">
         <div class = "card">
@@ -170,6 +176,9 @@
             </h6>
             <p>
               <a class="text-reset">陳品妤</a>
+            </p>
+            <p>
+              <a class="text-reset">李安妮</a>
             </p>
             <p>
               <a class="text-reset">張芷榕</a>
