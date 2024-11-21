@@ -67,11 +67,6 @@ Pull requests and issues are welcome!
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
-## 👥 Contact
-For any questions or suggestions:
-- Email: [Your Email]
-- GitHub: [@Ho-Isaline](https://github.com/Ho-Isaline)
-
 ---
 <div align="center">
   <i>Built with ❤️ by Isaline Ho</i>
